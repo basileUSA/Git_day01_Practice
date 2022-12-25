@@ -1,0 +1,3 @@
+My teammate added this file on GitHub
+
+and did some smoke testing
