@@ -1,0 +1,4 @@
+testes for test04
+
+...
+add mote info
