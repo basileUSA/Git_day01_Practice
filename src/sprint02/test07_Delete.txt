@@ -1,0 +1,8 @@
+This is how to delete a project from GitHub
+
+1. Go to project
+2. Click on settings
+3. Scroll down to Dangerous Zone
+4. Delete Repository
+5. Put Name of the Project
+6. CLick Delete
